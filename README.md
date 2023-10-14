@@ -1,8 +1,8 @@
 # Encriptador de texto / Text-encryptor
 
-Encriptador de texto. Cambia las vocales por las siguientes palabras.
+Es un encriptador de texto. Consiste en cambiar las vocales por las siguientes palabras.
 
-Text encrypter. Change the vowels for the following words.
+It is a text encryptor. It consists of changing the vowels for the following words.
 
 e - enter / 
 o - ober / 
